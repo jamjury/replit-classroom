@@ -1,5 +1,9 @@
+# these three should be ignored
 import unittest
 from main import example
+from main import *
+
+import math
 
 print('this code falls into the intialization section')
 intialization_section = 'right here'
