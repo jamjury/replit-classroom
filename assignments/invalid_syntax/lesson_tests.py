@@ -1,5 +1,7 @@
 import unittest
 from main import example
+from main import *
+import math
 
 class AssignmentWithValidTests(unittest.TestCase):
 def setUp(self):
